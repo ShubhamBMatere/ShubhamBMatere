@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShubhamBMatere.
+- 👋 Hi, I’m @ShubhamBMatere .
 - 👀 I’m a software developer working on java and enthusiastic to learn devops technologies.
 - 🌱 I’m currently learning and mastering devops technologies like linux, git/github, docker, kubernetes, terraform, ansible, prometheus, aws, azure etc.
 - 💞️ I’m looking to collaborate on disucssion regarding above technologies
