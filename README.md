@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning and mastering devops technologies like linux, git/github, docker, kubernetes, terraform, ansible, prometheus, aws, azure etc.
 - 💞️ I’m looking to collaborate on disucssion regarding above technologies
 - 📫 How to reach me https://www.linkedin.com/in/shubhambmatere/
+- 📫 Hahnode channel for detailed learning: https://hashnode.com/@shubhambmatere
 
 <!---
 ShubhamBMatere/ShubhamBMatere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
