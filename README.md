@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShubhamBMatere.
-- 👀 I’m a software developer working on java and enthusiastic to learn devops technologies.
+- 👀 I’m a DevOps Engineer/ SRE from India..
 - 🌱 I’m currently learning and mastering devops technologies like linux, git/github, docker, kubernetes, Jenkins, terraform, ansible, prometheus, AWS, Azure etc.
 - 💞️ I’m looking to collaborate on disucssion regarding above technologies...
 - 📫 How to reach me https://www.linkedin.com/in/shubhambmatere/
